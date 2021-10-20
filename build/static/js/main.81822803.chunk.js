@@ -1,0 +1,2 @@
+(this.webpackJsonpsamplereact=this.webpackJsonpsamplereact||[]).push([[0],{10:function(e,t,r){"use strict";r.r(t);var c=r(0),n=r.n(c),o=r(3),s=r.n(o),a=(r(8),r(1));var i=function(){return Object(a.jsx)("div",{children:"Hello World from react"})};s.a.render(Object(a.jsx)(n.a.StrictMode,{children:Object(a.jsx)(i,{})}),document.getElementById("root"))},8:function(e,t,r){}},[[10,1,2]]]);
+//# sourceMappingURL=main.81822803.chunk.js.map
